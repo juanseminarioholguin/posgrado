@@ -1,3 +1,21 @@
 .colorinstitucion {
     color: #fe9900!important;
 }
+
+.fondoprincipal {
+    background-image: url("img/fondoposgrado.png")
+}
+
+.maestria1 {
+    background-image: url("img/fondoposgrado.png")
+}
+
+.estilocajamaestriapincel {
+    --tw-bg-opacity: 1;
+    color: rgba(74, 222, 128, var(--tw-bg-opacity));
+}
+
+.estilocajamaestria {
+    --tw-bg-opacity: 1;
+    background-color: #025a27;
+}
